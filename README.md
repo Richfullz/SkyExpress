@@ -27,6 +27,15 @@
 ## npm install dotenv
 ## npm install express
 ## node -v / npm -v
-
 ## Una vez hecho todo esto, use la petición Get: es una solicitud HTTP que se utiliza para pedir los datos a un servidor, es el metodo mas común para leer o consultar información.
+## Tambien use postman para verificar que los datos a través de la peticion get llegarán correctamente
+## aqui puse mi petición Get lo siguiente después de la ? escribo mi apiKey(la de los demas será difernte)
+## ![image](https://github.com/user-attachments/assets/38939357-0a63-4e25-aa07-35c31caf2bf3)
 
+## use estos parametros, que tenemos en los documentos de la pagina weaderapi:
+### ![image](https://github.com/user-attachments/assets/f49bc78f-d7b3-4525-897c-c2ff7de3dc64)
+## Una vez puesto nuestros datos correctamente nos saldrá esto:
+### ![image](https://github.com/user-attachments/assets/909672a6-5599-4eae-a21a-54af5517ac60)
+## Estos son los datos que vamos a coger y mostrarlos en el frontend(eso después, hay mas datos abajo)
+## una vez tengamos todo correcto vamos con el código
+### ![image](https://github.com/user-attachments/assets/ab67f5b8-a280-4b4b-9d7d-8c627de938ab)
