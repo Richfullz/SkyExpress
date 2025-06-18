@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: linear-gradient(
+    90deg,
+    rgba(42, 123, 155, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  font-family: "Inter", sans-serif;
+}
+
+.indice {
+  display: flex;
+  padding: 1rem;
+}
+.indice h1 {
+  color: rgba(42, 123, 155, 1);
+  text-shadow: 1px 1px 1px #000;
+}
+
+.imagen {
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  border: 3px groove #000;
+  margin: 0 1rem 0 0;
+}
+
+#info-tiempo {
+  margin: 1rem auto;
+  padding: 1rem;
+  border: 1px groove black;
+  width: 25%;
+  border-radius: 10px;
+  background: #eddd53;
+}
+
+#info-tiempo p {
+  background: #57c785;
+  width: 70%;
+  padding: 1rem;
+  border-radius: 10px;
+}
+#icono-tiempo {
+  border-radius: 15px;
+  width: 80px;
+  height: 80px;
+  background: rgba(42, 123, 155, 1);
+}
+/*Formulario*/
+#busqueda {
+  margin: 10px 0px;
+  padding: 10px;
+  border-radius: 10px;
+  background: rgba(87, 199, 133, 1);
+  width: 95%;
+}
+#busqueda label {
+  color: rgba(42, 123, 155, 1);
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #000;
+  padding: 0px 2rem;
+}
+#ciudad {
+  margin: 2rem 2rem;
+  padding: 0.5rem;
+  border-radius: 15px;
+}
+#buscar {
+  color: #154360;
+  background: #abebc6;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
+  padding: 1rem;
+  transition: 1s all;
+}
+#buscar:hover {
+  background: #5499c7;
+  color: #abebc6;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
+  padding: 1rem;
+  transition: 1s all;
+}
