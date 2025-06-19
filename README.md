@@ -53,3 +53,7 @@
 ### ![image](https://github.com/user-attachments/assets/3825ff40-a8b8-4457-b4f4-bc7222c5ce76)
 ### ![image](https://github.com/user-attachments/assets/c8617f18-fb54-48a1-b760-78b51e4bb3b3)
 
+## Por ultimo los estilos CSS que le puse al proyecto
+### ![image](https://github.com/user-attachments/assets/324fc546-b24b-4026-8a63-8c2cc84629b5)
+### ![image](https://github.com/user-attachments/assets/3be9b0f9-0f93-497a-97ea-99f9347a58e5)
+
