@@ -58,9 +58,8 @@
 ### ![image](https://github.com/user-attachments/assets/3be9b0f9-0f93-497a-97ea-99f9347a58e5)
 
 # Cosas para Mejorar
-## Que el tiempo sea en tiempo real
 ## Hacerla en formato mobil
 ## Hacer un pronostico de semanal
 ## Crear un Radar o un mapa interactivo
 ## Guardar ubicaciones preferidas
-## añadir textos contextuales(por ejemplo si hay previsión de lluvias que ponga "No te olvides del paragüas")
+## Añadir textos contextuales (por ejemplo si hay previsión de lluvias que ponga "No te olvides del paragüas")
