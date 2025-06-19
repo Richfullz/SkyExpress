@@ -40,7 +40,5 @@
 ## una vez tengamos todo correcto vamos con el código
 ### ![image](https://github.com/user-attachments/assets/ab67f5b8-a280-4b4b-9d7d-8c627de938ab)
 ## Para empezar importamos los paquetes que instalamos anteriormente y hacemos la peticion get /tiempo/:ciudad (empece cogiendo una ciudad Española no :ciudad que es global, tu puedes coger la que quieras, 
-## si eres de otro pais ciudad (en mi caso para verificar que me llegaba correctamente en Postman para verificar los datos correctamente) coge otros datos quee te interesen, cogi los datos que se me
-## mostraban en postman y puse la url weatheapi y añadi e ${apikey} poniendo la 
-## variable apiKey que dentro puse la variable WEATHER_API_KEY que ahi dentro esta mi apikey y ${ciudad} es global, lo dicho anteriormente si tu quieres poner una ubicación exacta pones la que quieras.
+## si eres de otro pais ciudad coge otros datos que mas te interesen, cogi los datos que se mostraban en postman y puse la url weatheapi y añadi e ${apikey} poniendo la variable apiKey que dentro puse la variable WEATHER_API_KEY que ahi dentro esta mi apikey y ${ciudad} es global, lo dicho anteriormente si tu quieres poner una ubicación exacta pones la que quieras.
 ## despues creé un bucle try catch para verificar que si funciona o no la petición.
