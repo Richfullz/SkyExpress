@@ -39,6 +39,7 @@
 ## Estos son los datos que vamos a coger y mostrarlos en el frontend(eso después, hay mas datos abajo)
 ## una vez tengamos todo correcto vamos con el código
 ### ![image](https://github.com/user-attachments/assets/ab67f5b8-a280-4b4b-9d7d-8c627de938ab)
-## Para empezar importamos los paquetes que instalamos anteriormente y hacemos la peticion get /tiempo/:ciudad (empece cogiendo una ciudad Española no :ciudad que es global, tu puedes coger la que quieras, ## si eres de otro pais ciudad, en mi caso para verificar que me llegaba correctamente en Postman), cogi los datos que se me mostraban en postman y puse la url weatheapi y añadi e ${apikey} poniendo la 
+## Para empezar importamos los paquetes que instalamos anteriormente y hacemos la peticion get /tiempo/:ciudad (empece cogiendo una ciudad Española no :ciudad que es global, tu puedes coger la que quieras, 
+## si eres de otro pais ciudad, en mi caso para verificar que me llegaba correctamente en Postman), cogi los datos que se me mostraban en postman y puse la url weatheapi y añadi e ${apikey} poniendo la 
 ## variable apiKey que dentro puse la variable WEATHER_API_KEY que ahi dentro esta mi apikey y ${ciudad} es global, lo dicho anteriormente si tu quieres poner una ubicación exacta pones la que quieras.
 ## despues creé un bucle try catch para verificar que si funciona o no la petición.
