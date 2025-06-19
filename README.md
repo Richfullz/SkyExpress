@@ -40,5 +40,16 @@
 ## una vez tengamos todo correcto vamos con el código
 ### ![image](https://github.com/user-attachments/assets/ab67f5b8-a280-4b4b-9d7d-8c627de938ab)
 ## Para empezar importamos los paquetes que instalamos anteriormente y hacemos la peticion get /tiempo/:ciudad (empece cogiendo una ciudad Española no :ciudad que es global, tu puedes coger la que quieras, 
-## si eres de otro pais ciudad coge otros datos que mas te interesen, cogi los datos que se mostraban en postman y puse la url weatheapi y añadi e ${apikey} poniendo la variable apiKey que dentro puse la variable WEATHER_API_KEY que ahi dentro esta mi apikey y ${ciudad} es global, lo dicho anteriormente si tu quieres poner una ubicación exacta pones la que quieras.
-## despues creé un bucle try catch para verificar que si funciona o no la petición.
+## si eres de otro pais ciudad coge otros datos que más te interesen, cogi los datos que se mostraban en postman y puse la url weatheapi y añadi e ${apikey} poniendo la variable apiKey que dentro puse la variable WEATHER_API_KEY que ahi dentro esta mi apikey y ${ciudad} es global.
+## después creé un bucle try catch para verificar que si funciona o no la petición en el servidor.
+
+# VSCODE FRONT-END
+## Lo primero que hice fue hacer una plantilla en Figma para hacerme una idea de lo que queria hacer.
+### ![image](https://github.com/user-attachments/assets/4103eb13-2006-4141-ab5d-8666c7e75cf4)
+## Después de hacer el diseño en Figma empece por la estructura html
+### ![image](https://github.com/user-attachments/assets/d662ea2e-beaf-4557-ba6f-3e2e30f128b4)
+## Luego fuí a lo mas importante a crear la lógica en JS para hacer que todo funcionara según mi idea del proyecto haciendo peticiones fetch al servidor y hacen un bucle then-catch para verificar que los datos del servidor vienen correctamente o no y una vez verificados correctamente uso el DOM para mostrarlos en la parte front, luego deje una ciudad por defecto y cree el formulario con un botón que una vez cuando se pulse me muestre los datos de otra ciudad
+### ![image](https://github.com/user-attachments/assets/3beec67f-b89c-46b6-b9f6-72570b938e20)
+### ![image](https://github.com/user-attachments/assets/3825ff40-a8b8-4457-b4f4-bc7222c5ce76)
+### ![image](https://github.com/user-attachments/assets/c8617f18-fb54-48a1-b760-78b51e4bb3b3)
+
