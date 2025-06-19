@@ -53,7 +53,7 @@
 ### ![image](https://github.com/user-attachments/assets/3825ff40-a8b8-4457-b4f4-bc7222c5ce76)
 ### ![image](https://github.com/user-attachments/assets/c8617f18-fb54-48a1-b760-78b51e4bb3b3)
 
-## Para finalizar añadí que el tiempo fuese en tiempo real, es decir que se muestre la Hora, minuos, y segundos en tiempo real para ello cree dos variables y una que me cogiera el tiempo de la api
+## Para finalizar añadí que el tiempo fuese en tiempo real, es decir que se muestre la Hora, minuos, y segundos en tiempo real para ello cree dos variables sin ningun tipo de dato(NULL) y una que me cogiera el tiempo de la api
 ### ![image](https://github.com/user-attachments/assets/0d808166-7528-4d2d-96a7-871c5c804a65)
 ### ![image](https://github.com/user-attachments/assets/624bca6f-a030-4244-b518-585556ded26b)
 ## Luego dentro del bucle then guarde la fehca en la base con replace y lo limpie con clearInterval después cree una función para mostrar todo
